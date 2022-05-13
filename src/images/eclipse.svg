@@ -1,0 +1,22 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        opacity: 0.7;
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #002746;
+      }
+
+      .cls-2 {
+        fill: #002746;
+      }
+    </style>
+  </defs>
+  <title>Ellipse 1</title>
+  <circle class="cls-1" cx="13.5" cy="13.5" r="13"/>
+  <circle class="cls-2" cx="13.5" cy="13.5" r="5"/>
+</svg>

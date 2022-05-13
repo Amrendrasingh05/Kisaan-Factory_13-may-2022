@@ -1,0 +1,18 @@
+#button-addon2{
+    min-width: 50px;
+}
+.Labels{
+    font-size: 12px;
+}
+
+.PTag{
+    margin: 0;font-size: 13px;font-family: var(--rubik);
+}
+
+.HideClass{
+    display: none !important;
+}
+
+input[type="radio"]:checked ~ * {
+    border: 0px !important;
+  }
